@@ -1,0 +1,29 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    margin:10px 10% 0 10%;
+    position: relative;
+}
+
+.FlyerImg{
+    padding: 70px 8% 0 8%; 
+    width:auto;
+    height: 300px;
+    z-index: 1;
+
+}
+.heading{
+    padding: 70px 8% 0 8%;
+    font-size: 50px;
+}
+.wave{
+    position: absolute; 
+    top: 30%;
+    width: 100%;
+}
+.subheading{
+    font-size: 30px;
+    position: relative;
+    text-align: center;
+    top:120px
+}

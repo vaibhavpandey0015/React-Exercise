@@ -1,0 +1,32 @@
+.NavBar{
+    padding: 10px;
+    background: #0099ff;
+    height: 50px;
+    position: relative;
+}
+.logo{
+    position: absolute;
+    color: darkblue;
+    top: -5%;
+    left: 3%;
+}
+.NavBar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 38%;
+    left:80%;
+  }
+.NavBar ul li {
+    display: inline;
+  }
+.NavBar ul li  a{
+    font-size: large;
+    padding: 8px;
+    text-decoration: none;
+    color: #000;
+  }
+.NavBar ul li  a:hover {
+    background-color: #dddddd;
+  }
