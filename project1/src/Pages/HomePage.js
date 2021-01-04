@@ -7,7 +7,10 @@ const HomePage = () =>(
     <>
     <div className="header">
         
-        <h1 className="heading">What is Lorem Ipsum Lorem Ipsum is simply dummy text of the printing.</h1>
+        <div>
+            <h1 className="heading">Full Stack Web Developer</h1>
+            <h3 className="heading-1">I design and code beautifully simple things, and I love what I do.</h3>
+        </div>
         
         <img src={coverpic} className="FlyerImg"/>
         
